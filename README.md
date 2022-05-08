@@ -14,7 +14,7 @@
 #### Dependencies
  - Dependencie
 #### Download Content
- - **Documentation:** [LICENSE](https://github.com/neostetic/template/blob/main/LICENSE) ([download](https://github.com/neostetic/template/raw/main/LICENSE))
+ - **License:** [LICENSE](https://github.com/neostetic/template/blob/main/LICENSE) ([download](https://github.com/neostetic/template/raw/main/LICENSE))
 #### Install
  - Installation via **nodejs** and **npm**
 ```
