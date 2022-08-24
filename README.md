@@ -14,7 +14,7 @@
 #### Dependencies
  - Dependencie
 #### Download Content
- - **License:** [LICENSE](https://github.com/neostetic/template/blob/main/LICENSE) ([download](https://github.com/neostetic/template/raw/main/LICENSE))
+ - **License:** [LICENSE](./LICENSE) ([download](https://github.com/neostetic/template/raw/main/LICENSE))
 #### Install
  - Installation via **nodejs** and **npm**
 ```
@@ -23,7 +23,7 @@ npm i
 npm start
 ```
 #### Legal actions
- - Please, before using or cloning this project, read our [License Terms](https://github.com/RobuxRoll/casino-dev/blob/main/LICENSE).
+ - Please, before using or cloning this project, read our [License Terms](./LICENSE).
  - **By cloning, you are agreeing to the license and its intent.**
 
 ##### Copyright © 2022 Jan Poláček (neostetic). All rights reserved.
