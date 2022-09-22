@@ -14,7 +14,7 @@
 #### Dependencies
  - Dependencie
 #### Download Content
- - **License:** [LICENSE](./LICENSE) ([download](https://github.com/neostetic/template/raw/main/LICENSE))
+ - **License:** [LICENSE](./LICENSE) (./raw/main/LICENSE))
 #### Install
  - Installation via **nodejs** and **npm**
 ```
