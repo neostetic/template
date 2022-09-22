@@ -14,7 +14,7 @@
 #### Dependencies
  - Dependencie
 #### Download Content
- - **License:** [LICENSE](./LICENSE) ([download](./raw/main/LICENSE))
+ - **License:** [LICENSE](./LICENSE)
 #### Install
  - Installation via **nodejs** and **npm**
 ```
